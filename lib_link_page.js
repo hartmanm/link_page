@@ -3,7 +3,7 @@ Copyright (c) 2021 Michael Neill Hartman. All rights reserved.
 mnh_license@proton.me
 https://github.com/hartmanm
 `
-const info ="A vanilla js DOM metaprogramming implementation";
+const link_page_info ="A vanilla js DOM metaprogramming implementation";
 
 var intro = document.getElementsByClassName("intro");
 var zero = document.getElementsByClassName("zero");
