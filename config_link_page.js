@@ -4,16 +4,16 @@ mnh_license@proton.me
 https://github.com/hartmanm
 `
 // the speed characters are output at
-const typing_speed=14
+let typing_speed=14
 // seconds to hold message before clearing
-const time_to_hold_before_clearing=0
+let time_to_hold_before_clearing=0
 // larger is faster accelerates the speed characters are output at
 // no smaller than 1; 1 is no acceleration
-const accelerator=1.5
+let accelerator=1.5
 // frequency at which output is updated in milliseconds
-const update_timeout_frequency=20
+let update_timeout_frequency=20
 
-const input_text=`
+let input_text=`
     My name is Michael Neill Hartman
 
     I create solutions with software.
