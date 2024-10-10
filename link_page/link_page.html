@@ -51,14 +51,6 @@ body{background:white;}
 <div class="one"></div>
 <div class="two"></div>
 <div class="three"></div>
-<div class="gitgui">
-<p>to install helpful git tools with yum:</p>
-<b>this will make everything easier:</b>
-<p>sudo yum install git-gui</p>
-<b>this is a good tool for easily selecting your own local changes with a merge:</b>
-<p>sudo yum install kdiff3</p>
-<b>if you only use the command line, this will give you an overview:</b>
-<p>git log --graph --oneline --decorate --all</p>
 </div>
 <div class="footer"></div>
 <script>
@@ -81,13 +73,13 @@ var lamdalink = document.getElementById(id);
 lamdalink.addEventListener("click", function(e){var target = e.target || e.srcElement; execute_z(target,url)}, false);
 }
 // div intro
-lamda_link('<b>google search for git guide</b><br></br><p>There are some good guides easily found with a Google search.</p><p>I found the following guides helpful.</p><p>They are arranged from the simplest at the top, to the most advanced at the bottom.</p>','bsdfgg','https://www.google.com/search?q=git guide',intro);
+lamda_link('<b>hartmanm/mnh_license</p>','bsdfgg','https://github.com/hartmanm/mnh_license/tree/main',intro);
 // div zero
 lamda_link('<p>hartmanm/typed</p>','1ert','https://github.com/hartmanm/typed',zero);
-//lamda_link('<img src="git_sg.png" style="width:50%;height:50%;"/>','1dfg','https://rogerdudler.github.io/git-guide/',zero);
+//lamda_link('<img src="xyz.png" style="width:50%;height:50%;"/>','1dfg','title_url',zero);
 // div zero_one
 lamda_link('<p>marklodato.github.io/visual-git-guide</p>','1esdfgrt','https://marklodato.github.io/visual-git-guide/index-en.html',zero_one);
-//lamda_link('<img src="basic_usage_git.png" style="width:50%;height:50%;"/>','1dsdffg','https://marklodato.github.io/visual-git-guide/index-en.html',zero_one);
+//lamda_link('<img src="xyz.png" style="width:50%;height:50%;"/>','1dsdffg','title_url',zero_one);
 // div one
 lamda_link('<p>learn-the-basics-of-git-in-under-10-minutes</p>','1','https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/',one);
 //lamda_link('<img src="git_workflow.png"/>','1','https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/',one);
@@ -100,7 +92,6 @@ lamda_link('<p>think-like-a-git</p>','44','http://think-like-a-git.net',three);
 //lamda_link('<img src="tldr_git.png" style="width:50%;height:50%;"/>','4','http://think-like-a-git.net/tldr.html',three);
 //lamda_link('<img src="rmcr_git.png" style="width:50%;height:50%;"/>','4asdf44','http://think-like-a-git.net/sections/experimenting-with-git/references-make-commits-reachable.html',three);
 //lamda_link('<img src="gitx-vis.png" style="width:50%;height:50%;"/>','444','http://think-like-a-git.net/sections/graphs-and-git/making-sense-of-the-display.html',three);
-// div gitgui
 // div footer
 lamda_link('<img src="hartmanm_avatar.png"/>','12345','https://github.com/hartmanm',footer);
 </script>
