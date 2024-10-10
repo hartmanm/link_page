@@ -1,0 +1,17 @@
+/* 
+Copyright (c) 2019 Michael Neill Hartman. All rights reserved.
+mnh_license@proton.me
+https://github.com/hartmanm
+*/ 
+
+.header{padding-top:30px; padding-bottom:30px; text-align:center; color:white; background-color:#0d0422;}
+.zero{padding-top:30px; padding-bottom:30px; text-align:center; color:white; background-color:#06406c;}
+.zero_one{padding-top:30px; padding-bottom:30px; text-align:center; color:white; background-color:#3a198b;}
+.intro{padding-top:30px; padding-bottom:30px; text-align:center; color:white; background-color:#723eb6;}
+.one{padding-top:30px; padding-bottom:30px; text-align:center; color:white; background-color:#647696;}
+.two{padding-top:30px; padding-bottom:30px; text-align:center; color:white; background-color:#adb7f5;}
+.three{padding-top:30px; padding-bottom:30px; text-align:center; color:white; background-color:#99c4a6;}
+.gitgui{padding-top:30px; padding-bottom:30px; text-align:center; color:white; background-color:#d4aa5c;}
+.footer{padding-top:30px; padding-bottom:30px; text-align:center; color:white; background-color:#d36f48;}
+lamda_link:hover,lamda_link:active,lamda_link:focus{padding-top: 15px; padding-bottom: 17px; cursor:pointer;}
+body{background:white;}
