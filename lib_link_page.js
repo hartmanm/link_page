@@ -24,7 +24,7 @@ let lamdalink = document.getElementById(id);
 lamdalink.addEventListener("click", function(e){let target = e.target || e.srcElement; execute_z(target,url)}, false);
 }
 lamda_link('<p>license</p>','1','https://hartmanm.github.io/mnh_license/mnh_license.html',one);
-lamda_link('<p>hartmanm/mnh_license</p>','1','https://github.com/hartmanm/mnh_license/tree/main?tab=License-1-ov-file',one);
+lamda_link('<p>hartmanm/mnh_license</p>','1b','https://github.com/hartmanm/mnh_license/tree/main?tab=License-1-ov-file',one);
 lamda_link('<p>hartmanm/typed</p>','2','https://github.com/hartmanm/typed?tab=License-1-ov-file',two);
 lamda_link('<p>hartmanm/hs_server</p>','8','https://github.com/hartmanm/hs_server',three);
 lamda_link('<p>hartmanm/d3_clock</p>','3','https://github.com/hartmanm/d3_clock?tab=License-1-ov-file',four);
