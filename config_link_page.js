@@ -3,7 +3,7 @@ Copyright (c) 2019 Michael Neill Hartman. All rights reserved.
 mnh_license@proton.me
 https://github.com/hartmanm
 `
-let info ="A vanilla js Link Page with lambda_links";
+let info ="Copyright (c) 2019 Michael Neill Hartman. All rights reserved.";
 // the speed characters are output at
 let typing_speed=14
 // seconds to hold message before clearing
