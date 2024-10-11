@@ -34,4 +34,4 @@ lamda_link('<p>hartmanm/22mines</p>','a3','https://github.com/hartmanm/22mines?t
 //lamda_link('<img src="xyz.png" style="width:50%;height:50%;"/>','4asdf44','title_url',three);
 //lamda_link('<img src="xyz.png" style="width:50%;height:50%;"/>','444','title_url',three);
 lamda_link('<p>hartmanm/hs_server</p>','a4','https://github.com/hartmanm/hs_server',four);
-lamda_link('<img src="hartmanm_avatar.png"/>','afz','https://github.com/hartmanm',footer);
+lamda_link('<img src="hartmanm_avatar.png"/>','afzzz','https://github.com/hartmanm',footer);
