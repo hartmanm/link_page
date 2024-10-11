@@ -38,7 +38,7 @@ lamda_link('<p>hartmanm/oros_nv</p>','1','https://github.com/hartmanm/oros_nv?ta
 lamda_link('<p>hartmanm/22mines</p>','22','https://github.com/hartmanm/22mines?tab=License-1-ov-file',two);
 //lamda_link('<img src="xyz.png"/>','3','title_url',two);
 // div three
-lamda_link('<p>hartmanm/hs_server</p>','44','https://github.com/hartmanm/hs_server?tab=License-1-ov-file',three);
+lamda_link('<p>hartmanm/hs_server</p>','44','https://github.com/hartmanm/hs_server',three);
 //lamda_link('<img src="xyz.png" style="width:50%;height:50%;"/>','4','title_url',three);
 //lamda_link('<img src="xyz.png" style="width:50%;height:50%;"/>','4asdf44','title_url',three);
 //lamda_link('<img src="xyz.png" style="width:50%;height:50%;"/>','444','title_url',three);
