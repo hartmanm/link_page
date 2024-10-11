@@ -23,7 +23,7 @@ var lamdalink = document.getElementById(id);
 lamdalink.addEventListener("click", function(e){var target = e.target || e.srcElement; execute_z(target,url)}, false);
 }
 // div intro
-lamda_link('<p>hartmanm/mnh_license</p>','bsdfgg','https://github.com/hartmanm/mnh_license/tree/main',intro);
+lamda_link('<p>hartmanm/mnh_license</p>','bsdfgg','https://github.com/hartmanm/mnh_license/tree/main?tab=License-1-ov-file',intro);
 // div zero
 lamda_link('<p>hartmanm/typed</p>','1ert','https://github.com/hartmanm/typed',zero);
 //lamda_link('<img src="xyz.png" style="width:50%;height:50%;"/>','1dfg','title_url',zero);
