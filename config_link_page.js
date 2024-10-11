@@ -3,7 +3,6 @@ Copyright (c) 2019 Michael Neill Hartman. All rights reserved.
 mnh_license@proton.me
 https://github.com/hartmanm
 `
-
 let info ="A vanilla js Link Page with lambda_links";
 // the speed characters are output at
 let typing_speed=14
@@ -14,7 +13,6 @@ let time_to_hold_before_clearing=0
 let accelerator=1.5
 // frequency at which output is updated in milliseconds
 let update_timeout_frequency=20
-
 let input_text=`
 My name is Michael Neill Hartman
 I create solutions with software.
