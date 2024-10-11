@@ -16,11 +16,9 @@ let update_timeout_frequency=20
 let input_text=`
 My name is Michael Neill Hartman
 I create solutions with software.
-I live in New Hampshire
 I'm an experimental innovator who finds creative solutions to difficult problems.
 Whenever I attempt a technical task I succeed. 
 I have lots of extra-domain knowledge. 
 I am extremely eclectic in my ideas and opinions. 
 I am always looking to be proven wrong, learn new things, or be afforded a fresh perspective.
-I would rather be challenged, than comfortable.
 `
