@@ -25,20 +25,20 @@ lamdalink.addEventListener("click", function(e){var target = e.target || e.srcEl
 // div intro
 lamda_link('<p>hartmanm/mnh_license</p>','bsdfgg','https://github.com/hartmanm/mnh_license/tree/main?tab=License-1-ov-file',intro);
 // div zero
-lamda_link('<p>hartmanm/typed</p>','1ert','https://github.com/hartmanm/typed',zero);
+lamda_link('<p>hartmanm/typed</p>','1ert','https://github.com/hartmanm/typed?tab=License-1-ov-file',zero);
 //lamda_link('<img src="xyz.png" style="width:50%;height:50%;"/>','1dfg','title_url',zero);
 // div zero_one
-lamda_link('<p>hartmanm/overlord_nv</p>','1esdfgrt','https://github.com/hartmanm/overlord_nv',zero_one);
+lamda_link('<p>hartmanm/overlord_nv</p>','1esdfgrt','https://github.com/hartmanm/overlord_nv?tab=License-1-ov-file',zero_one);
 //lamda_link('<img src="xyz.png" style="width:50%;height:50%;"/>','1dsdffg','title_url',zero_one);
 // div one
-lamda_link('<p>hartmanm/oros_nv</p>','1','https://github.com/hartmanm/oros_nv',one);
+lamda_link('<p>hartmanm/oros_nv</p>','1','https://github.com/hartmanm/oros_nv?tab=License-1-ov-file',one);
 //lamda_link('<img src="xyz.png"/>','1','title_url',one);
 //lamda_link('<img src="xyz.png" style="width:50%;height:50%;"/>','2','title_url',one);
 // div two
-lamda_link('<p>hartmanm/22mines</p>','22','https://github.com/hartmanm/22mines',two);
+lamda_link('<p>hartmanm/22mines</p>','22','https://github.com/hartmanm/22mines?tab=License-1-ov-file',two);
 //lamda_link('<img src="xyz.png"/>','3','title_url',two);
 // div three
-lamda_link('<p>hartmanm/hs_server</p>','44','https://github.com/hartmanm/hs_server',three);
+lamda_link('<p>hartmanm/hs_server</p>','44','https://github.com/hartmanm/hs_server?tab=License-1-ov-file',three);
 //lamda_link('<img src="xyz.png" style="width:50%;height:50%;"/>','4','title_url',three);
 //lamda_link('<img src="xyz.png" style="width:50%;height:50%;"/>','4asdf44','title_url',three);
 //lamda_link('<img src="xyz.png" style="width:50%;height:50%;"/>','444','title_url',three);
