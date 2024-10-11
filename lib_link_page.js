@@ -3,7 +3,6 @@ Copyright (c) 2021 Michael Neill Hartman. All rights reserved.
 mnh_license@proton.me
 https://github.com/hartmanm
 `
-
 let one = document.getElementsByClassName("one");
 let two = document.getElementsByClassName("two");
 let three = document.getElementsByClassName("three");
@@ -32,4 +31,4 @@ lamda_link('<p>hartmanm/overlord_nv</p>','5','https://github.com/hartmanm/overlo
 lamda_link('<p>hartmanm/methods</p>','6','https://github.com/hartmanm/methods?tab=License-1-ov-file',six);
 lamda_link('<p>hartmanm/22mines</p>','7','https://github.com/hartmanm/22mines?tab=License-1-ov-file',seven);
 lamda_link('<p>hartmanm/hs_server</p>','8','https://github.com/hartmanm/hs_server',eight);
-lamda_link('<img src="hartmanm_avatar.png" style="width:50%;height:50%;"/>','zzzz','https://github.com/hartmanm',footer);
+lamda_link('<img src="hartmanm_avatar.png" style="width:20%;height:20%;"/>','zzzz','https://github.com/hartmanm',footer);
