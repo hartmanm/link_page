@@ -14,6 +14,7 @@ let eight = document.getElementsByClassName("eight");
 let nine = document.getElementsByClassName("nine");
 let ten = document.getElementsByClassName("ten");
 let eleven = document.getElementsByClassName("eleven");
+let twelve = document.getElementsByClassName("twelve");
 function lamda_link(innerhtml,id,url,base_element)
 {
 let ddiv = document.createElement("lamda_link");
@@ -36,4 +37,5 @@ lamda_link('<p>hartmanm/methods</p>','6','https://github.com/hartmanm/methods?ta
 lamda_link('<p>hartmanm/ticker</p>','7','https://github.com/hartmanm/ticker?tab=License-1-ov-file',eight);
 lamda_link('<p>hartmanm/mining_electric_cost_calculator</p>','9','https://github.com/hartmanm/mining_electric_cost_calculator',nine);
 lamda_link('<p>hartmanm/pavo_td</p>','10','https://github.com/hartmanm/pavo_td?tab=License-1-ov-file',ten);
-lamda_link('<img src="hartmanm_avatar.png" style="width:15%;height:15%;"/>','11','https://github.com/hartmanm',eleven);
+lamda_link('<p>hartmanm/simpleB</p>','10','https://github.com/hartmanm/simpleB?tab=License-1-ov-file',eleven);
+lamda_link('<img src="hartmanm_avatar.png" style="width:15%;height:15%;"/>','11','https://github.com/hartmanm',twelve);
