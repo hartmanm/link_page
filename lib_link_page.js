@@ -33,7 +33,7 @@ lamda_link('<p>hartmanm/d3_clock</p>','3','https://github.com/hartmanm/d3_clock?
 lamda_link('<p>hartmanm/oros_nv</p>','4','https://github.com/hartmanm/oros_nv?tab=License-1-ov-file',five);
 lamda_link('<p>hartmanm/overlord_nv</p>','5','https://github.com/hartmanm/overlord_nv?tab=License-1-ov-file',six);
 lamda_link('<p>hartmanm/methods</p>','6','https://github.com/hartmanm/methods?tab=License-1-ov-file',seven);
-lamda_link('<p>hartmanm/22mines</p>','7','https://github.com/hartmanm/22mines?tab=License-1-ov-file',eight);
+lamda_link('<p>hartmanm/ticker</p>','7','https://github.com/hartmanm/ticker?tab=License-1-ov-file',eight);
 lamda_link('<p>hartmanm/mining_electric_cost_calculator</p>','9','https://github.com/hartmanm/mining_electric_cost_calculator',nine);
 lamda_link('<p>hartmanm/pavo_td</p>','10','https://github.com/hartmanm/pavo_td?tab=License-1-ov-file',ten);
 lamda_link('<img src="hartmanm_avatar.png" style="width:15%;height:15%;"/>','11','https://github.com/hartmanm',eleven);
