@@ -28,8 +28,8 @@ lamdalink.addEventListener("click", function(e){let target = e.target || e.srcEl
 }
 lamda_link('<p>license</p>','1','https://hartmanm.github.io/mnh_license/mnh_license.html',one);
 lamda_link('<p>hartmanm/mnh_license</p>','1b','https://github.com/hartmanm/mnh_license/tree/main?tab=License-1-ov-file',one);
-lamda_link('<p>hartmanm/typed</p>','2','https://github.com/hartmanm/typed?tab=License-1-ov-file',two);
-lamda_link('<img src="hs_server.png" style="width:35%;height:35%;"/>','8','https://github.com/hartmanm/hs_server',three);
+lamda_link('<img src="hs_server.png" style="width:35%;height:35%;"/>','8','https://github.com/hartmanm/hs_server',two);
+lamda_link('<p>hartmanm/typed</p>','2','https://github.com/hartmanm/typed?tab=License-1-ov-file',three);
 lamda_link('<p>hartmanm/d3_clock</p>','3','https://github.com/hartmanm/d3_clock?tab=License-1-ov-file',four);
 lamda_link('<p>hartmanm/oros_nv</p>','4','https://github.com/hartmanm/oros_nv?tab=License-1-ov-file',five);
 lamda_link('<p>hartmanm/overlord_nv</p>','5','https://github.com/hartmanm/overlord_nv?tab=License-1-ov-file',six);
