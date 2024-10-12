@@ -35,5 +35,5 @@ lamda_link('<p>hartmanm/overlord_nv</p>','5','https://github.com/hartmanm/overlo
 lamda_link('<p>hartmanm/methods</p>','6','https://github.com/hartmanm/methods?tab=License-1-ov-file',seven);
 lamda_link('<p>hartmanm/22mines</p>','7','https://github.com/hartmanm/22mines?tab=License-1-ov-file',eight);
 lamda_link('<p>hartmanm/mining_electric_cost_calculator</p>','9','https://github.com/hartmanm/mining_electric_cost_calculator',nine);
-lamda_link('<p>placeholder</p>','10','placeholder',ten);
+lamda_link('<p>hartmanm/pavo_td</p>','10','https://github.com/hartmanm/pavo_td',ten);
 lamda_link('<img src="hartmanm_avatar.png" style="width:15%;height:15%;"/>','11','https://github.com/hartmanm',eleven);
